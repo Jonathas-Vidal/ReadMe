@@ -3,7 +3,6 @@
 - 🔭 Graduating in Analysis and Sistems Developement
 - 🌱 I’m currently learning: Kotlin
 - 📫 How to reach me: Jonathas10pereira@gmail.com
-- 😄 Pronouns: ele/dele.
 - ⚡ Fun fact: apaixonado por tecnologia desde criança.
 - <div align="center">
   <a href="https://github.com/Jonathasz1">
