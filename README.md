@@ -15,8 +15,8 @@
 <div style="display: inline_block"><br>
 <b>Technologies used by me: </b>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jonathas-Android" height="40" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="Jonathas-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jonathas-Android" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="Jonathas-Kotlin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 
   ##
   <a href="https://github.com/Jonathasz1">
