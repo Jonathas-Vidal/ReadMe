@@ -12,9 +12,10 @@
   <a href="https://instagram.com/jonathaasrj" target="_blank"><img height="40" width="140" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathas10pereira@gmail.com"><img height="40" width="140" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<b>Technologies used by me: </b>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jonathas-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+<b>Technologies used by me: </b>
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Jonathas-Android" height="40" width="50" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Jonathas-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 
   ##
