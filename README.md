@@ -12,8 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathas-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Jonathas-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Jonathas-pic" height="150" style="border-radius:50px;" src="https://2.bp.blogspot.com/-JL2GI1iQ33Y/WN1I1gejjTI/AAAAAAAAa_Q/GjWuT7ib7wA1vGGjf_RK2Hop2JQCT_AzQCLcB/s320/Gifs%2Banimados%2BAndroid%2B4.gif">
-</div>
+
   
   ##
  
