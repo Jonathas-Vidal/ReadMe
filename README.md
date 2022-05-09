@@ -20,8 +20,8 @@
 
   ##
   <a href="https://github.com/Jonathasz1">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Vidal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Vidal&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130" width="500" src="https://github-readme-stats.vercel.app/api?username=Jonathas-Vidal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathas-Vidal&layout=compact&langs_count=7&theme=dracula"/>
 
   ![Snake animation](https://github.com/Jonathasz1/Jonathasz1/blob/output/github-contribution-grid-snake.svg)
  
