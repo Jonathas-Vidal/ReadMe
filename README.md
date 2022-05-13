@@ -1,4 +1,6 @@
-### Bem-Vindo/Welcome, meu nome é Jonathas Vidal! 👋
+### Bem-Vindos ao meu repositório! 👋
+### Aqui vocês irão acompanhar meus projetinhos.
+### Este repositório tem a intenção de, além de exibir meus projetos, mostrar minha evolução, sendo assim aqui serão encontrados desde projetos simples, até projetos mais elaborados :) 
 
 - 🔭 Graduating in Analysis and Sistems Developement
 - 🌱 I’m currently learning: Kotlin, Android Development.
